@@ -10,7 +10,7 @@
 //*---------------------------------------------------------------------------------------------------------
 //* dernière mise a jour : 23/11/2021
 //*
-//*Programmeurs : Caruelle Jérémy Bernart Léa Febvin Grégory classe : BTSSN2
+//*Programmeurs : Caruelle Jérémy Bernard Léa Febvin Grégory classe : BTSSN2
 //*
 //*--------------------------------------------------------------------------------------------------------
 //* BUT : Récuperer et afficher des trames d'un GPS sur une IHM
